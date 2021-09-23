@@ -1,0 +1,9 @@
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\bin\Debug\netstandard2.0\ModelMetier.deps.json
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\bin\Debug\netstandard2.0\ModelMetier.dll
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\bin\Debug\netstandard2.0\ModelMetier.pdb
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\obj\Debug\netstandard2.0\ModelMetier.csprojAssemblyReference.cache
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\obj\Debug\netstandard2.0\ModelMetier.csproj.CoreCompileInputs.cache
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\obj\Debug\netstandard2.0\ModelMetier.AssemblyInfoInputs.cache
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\obj\Debug\netstandard2.0\ModelMetier.AssemblyInfo.cs
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\obj\Debug\netstandard2.0\ModelMetier.dll
+C:\Users\erwan\source\repos\ProjetTraders\ModelMetier\obj\Debug\netstandard2.0\ModelMetier.pdb

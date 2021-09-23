@@ -1,0 +1,38 @@
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\ProjetDeTests.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\ProjetDeTests.pdb
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\ModelObjet.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\ModelObjet.pdb
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\obj\Debug\ProjetDeTests.csprojAssemblyReference.cache
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\obj\Debug\ProjetDeTests.csproj.CoreCompileInputs.cache
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\obj\Debug\ProjetDeTests.csproj.CopyComplete
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\obj\Debug\ProjetDeTests.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ProjetDeTests\obj\Debug\ProjetDeTests.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\ProjetDeTests.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\ProjetDeTests.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\ModelObjet.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\ModelObjet.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\obj\Debug\ProjetDeTests.csprojAssemblyReference.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\obj\Debug\ProjetDeTests.csproj.CoreCompileInputs.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\obj\Debug\ProjetDeTests.csproj.CopyComplete
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\obj\Debug\ProjetDeTests.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ProjetDeTests\obj\Debug\ProjetDeTests.pdb

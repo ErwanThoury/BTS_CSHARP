@@ -1,0 +1,11 @@
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\bin\Debug\netstandard2.0\modelMetier.gestionnaire.deps.json
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\bin\Debug\netstandard2.0\modelMetier.gestionnaire.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\bin\Debug\netstandard2.0\modelMetier.gestionnaire.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\bin\Debug\netstandard2.0\modelMetier.entity.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\bin\Debug\netstandard2.0\modelMetier.entity.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\obj\Debug\netstandard2.0\modelMetier.gestionnaire.csprojAssemblyReference.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\obj\Debug\netstandard2.0\modelMetier.gestionnaire.AssemblyInfoInputs.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\obj\Debug\netstandard2.0\modelMetier.gestionnaire.AssemblyInfo.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\obj\Debug\netstandard2.0\modelMetier.gestionnaire.csproj.CopyComplete
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\obj\Debug\netstandard2.0\modelMetier.gestionnaire.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.gestionnaire\obj\Debug\netstandard2.0\modelMetier.gestionnaire.pdb

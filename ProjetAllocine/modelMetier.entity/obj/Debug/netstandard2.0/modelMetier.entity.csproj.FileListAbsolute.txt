@@ -1,0 +1,8 @@
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\bin\Debug\netstandard2.0\modelMetier.entity.deps.json
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\bin\Debug\netstandard2.0\modelMetier.entity.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\obj\Debug\netstandard2.0\modelMetier.entity.AssemblyInfoInputs.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\obj\Debug\netstandard2.0\modelMetier.entity.AssemblyInfo.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\bin\Debug\netstandard2.0\modelMetier.entity.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\obj\Debug\netstandard2.0\modelMetier.entity.csprojAssemblyReference.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\obj\Debug\netstandard2.0\modelMetier.entity.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\ProjetAllocine\modelMetier.entity\obj\Debug\netstandard2.0\modelMetier.entity.pdb

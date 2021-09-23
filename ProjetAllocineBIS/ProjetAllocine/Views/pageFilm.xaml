@@ -1,0 +1,94 @@
+﻿<Page
+    x:Class="ProjetAllocine.Views.pageFilm"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProjetAllocine.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="using:Windows.UI.Xaml.Controls.Maps"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>    
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Name="btnRetour" Content="RETOUR" FontSize="50" Click="btnRetour_Click"></Button>
+            <maps:MapControl Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Name="map" Width="550" Height="425"
+
+                               MapServiceToken="TxIzPyrx9RCxyEvV7MrZ~0nQ-WIrxMJoGhdD0ofkreg~AkGz6AjJU-pOi1QJtgugov-d0k7MNHjOwy5NsfgTNkZV37OWX7RtRmbyhO1TwwCY">
+                
+            </maps:MapControl>
+            <StackPanel Grid.Row="2">
+                <TextBlock Text="Adresse" ></TextBlock>
+                <TextBlock Name="txtAdresse" ></TextBlock>
+            </StackPanel>
+            <StackPanel Grid.Row="3">
+                <TextBlock Text="Longitude" ></TextBlock>
+                <TextBlock Name="txtLongitude" ></TextBlock>
+            </StackPanel>
+            <StackPanel Grid.Row="4">
+                <TextBlock Text="Latitude" ></TextBlock>
+                <TextBlock Name="txtLatitude" ></TextBlock>
+            </StackPanel>
+
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="6*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Name="txtNomCinema" FontSize="50" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+            <GridView Grid.Row="1"  Name="lstFilms" Margin="5" Background="Transparent" Width="800" 
+                         SelectionChanged="lstFilms_SelectionChanged"
+              
+                         ItemTemplate="{StaticResource ResourceKey=tplLstFilm}" HorizontalAlignment="Center" VerticalAlignment="Center">
+            </GridView>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <FlipView Grid.Column="0" Name="fvActeur">
+                    <FlipView.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <Image Source="{Binding ImageActeur}" Height="550"/>
+                                <TextBlock Text="{Binding NomActeur}" Height="115" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </FlipView.ItemTemplate>
+                </FlipView>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0">
+                        <TextBlock Text="Nombre de vote:"></TextBlock>
+                        <TextBlock Name="txtNbrVote"></TextBlock>
+                    </StackPanel>
+                    <StackPanel Grid.Row="1">
+                        <TextBlock Text="Total de vote:"></TextBlock>
+                        <TextBlock Name="txtTotalVote"></TextBlock>
+                    </StackPanel>
+                    <Slider Minimum="0" Maximum="5" Grid.Row="2" Name="sldNote"></Slider>
+                    <Button Content="Noter" Grid.Row="3" Click="Button_Click"/>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,140 @@
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\App.xbf
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.xr.xml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.exe
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.pdb
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\resources.pri
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\Core\UWP.exe
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.build.appxrecipe
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\ModelObjet.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\bin\x86\Debug\ModelObjet.pdb
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.csprojAssemblyReference.cache
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.g.cs
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.xaml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.xbf
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.csproj.CoreCompileInputs.cache
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.csproj.CopyComplete
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.exe
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.pdb
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\priconfig.xml
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\resources.resfiles
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\pri.resfiles
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\App.xbf
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\MainPage.xbf
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.xr.xml
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.exe
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.pdb
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\resources.pri
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\AppxManifest.xml
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\Core\AppxManifest.xml
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\Core\UWP.exe
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\UWP.build.appxrecipe
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\System.Runtime.dll
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\ModelObjet.dll
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\bin\x86\Debug\ModelObjet.pdb
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.g.i.cs
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.g.cs
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.g.i.cs
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.g.cs
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.xaml
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.xaml
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\App.xbf
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MainPage.xbf
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\XamlSaveStateFile.xml
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.csproj.CoreCompileInputs.cache
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.csproj.CopyComplete
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.exe
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\UWP.pdb
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\ResourceHandlingTask.state
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\priconfig.xml
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\priconfig.xml.intermediate
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\unfiltered.layout.resfiles
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\filtered.layout.resfiles
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\excluded.layout.resfiles
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\resources.resfiles
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\resources.resfiles.intermediate
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\pri.resfiles
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\pri.resfiles.intermediate
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\qualifiers.txt
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\qualifiers.txt.intermediate
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\ProjectArchitectures.txt
+P:\LeRebours\SIO2\Devoir1TestsUnitaires\UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\App.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\UWP.xr.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\UWP.exe
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\UWP.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\resources.pri
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\Core\UWP.exe
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\UWP.build.appxrecipe
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\ModelObjet.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\bin\x86\Debug\ModelObjet.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\UWP.csprojAssemblyReference.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\App.g.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\App.xaml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\App.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\UWP.csproj.CopyComplete
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\UWP.exe
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\UWP.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\priconfig.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\resources.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\pri.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json

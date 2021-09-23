@@ -1,0 +1,134 @@
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\App.xbf
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\MainPage.xbf
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.xr.xml
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.exe
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\resources.pri
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\AppxManifest.xml
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Core\AppxManifest.xml
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Core\UWPGestionSalles.exe
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.build.appxrecipe
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\BouncyCastle.Crypto.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Google.Protobuf.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\MySql.Data.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Runtime.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Renci.SshNet.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\SshNet.Security.Cryptography.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Resources.Extensions.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Xml.XPath.XmlDocument.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\ClassesMetier.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\GestionnaireBDD.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\ClassesMetier.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\GestionnaireBDD.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.g.i.cs
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.g.cs
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.g.i.cs
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.g.cs
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\XamlTypeInfo.g.cs
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.xaml
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.xaml
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.xbf
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.xbf
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\XamlSaveStateFile.xml
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.csproj.CopyComplete
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.exe
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\ResourceHandlingTask.state
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MySql.Data\en-US\MySql.Data.Resources.resw
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MySql.Data\en-US\MySql.Data.ResourcesX.resw
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Resources.Extensions.SR.resw
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Xml.XPath.XmlDocument.SR.resw
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\priconfig.xml
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\priconfig.xml.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\unfiltered.layout.resfiles
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\filtered.layout.resfiles
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\filtered.layout.resfiles.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\excluded.layout.resfiles
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\excluded.layout.resfiles.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.resfiles
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.resfiles.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\pri.resfiles
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\pri.resfiles.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\qualifiers.txt
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\qualifiers.txt.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.en-us.resfiles
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.en-us.resfiles.intermediate
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\ProjectArchitectures.txt
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\App.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\MainPage.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.xr.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.exe
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\resources.pri
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\AppxManifest.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Core\UWPGestionSalles.exe
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\UWPGestionSalles.build.appxrecipe
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Google.Protobuf.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\MySql.Data.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Runtime.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Renci.SshNet.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\SshNet.Security.Cryptography.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Resources.Extensions.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\System.Xml.XPath.XmlDocument.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\ClassesMetier.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\GestionnaireBDD.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\ClassesMetier.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\bin\x86\Debug\GestionnaireBDD.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.csprojAssemblyReference.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.g.i.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.g.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.g.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.xaml
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.xaml
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\App.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MainPage.xbf
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.csproj.CopyComplete
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.exe
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\UWPGestionSalles.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MySql.Data\en-US\MySql.Data.Resources.resw
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MySql.Data\en-US\MySql.Data.ResourcesX.resw
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Resources.Extensions.SR.resw
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\FxResources.System.Xml.XPath.XmlDocument.SR.resw
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\priconfig.xml
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\pri.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\qualifiers.txt
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\UWPGestionSalles\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json

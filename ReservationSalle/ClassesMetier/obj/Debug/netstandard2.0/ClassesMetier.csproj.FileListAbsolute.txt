@@ -1,0 +1,20 @@
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\ClassesMetier.deps.json
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\ClassesMetier.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\ClassesMetier.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.AssemblyInfoInputs.cache
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.AssemblyInfo.cs
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.dll
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.pdb
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+P:\LeRebours\SIO2\UWP et BDD\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.csproj.CopyComplete
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\ClassesMetier.deps.json
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\ClassesMetier.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\ClassesMetier.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.csprojAssemblyReference.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.AssemblyInfoInputs.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.AssemblyInfo.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.csproj.CopyComplete
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\Devoir 3\ReservationSalle\ClassesMetier\obj\Debug\netstandard2.0\ClassesMetier.pdb

@@ -1,0 +1,17 @@
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\bin\Debug\netstandard2.0\ModelObjet.deps.json
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\bin\Debug\netstandard2.0\ModelObjet.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\bin\Debug\netstandard2.0\ModelObjet.pdb
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.csprojAssemblyReference.cache
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.csproj.CoreCompileInputs.cache
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.AssemblyInfoInputs.cache
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.AssemblyInfo.cs
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.dll
+C:\Users\jbuffeteau\source\repos\Devoir1TestsUnitaires\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\bin\Debug\netstandard2.0\ModelObjet.deps.json
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\bin\Debug\netstandard2.0\ModelObjet.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\bin\Debug\netstandard2.0\ModelObjet.pdb
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.csprojAssemblyReference.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.AssemblyInfoInputs.cache
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.AssemblyInfo.cs
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.dll
+C:\Users\erwan\OneDrive\Desktop\VS2019\DEVOIR 1\Devoir1TestsUnitaires - Etudiant\ModelObjet\obj\Debug\netstandard2.0\ModelObjet.pdb

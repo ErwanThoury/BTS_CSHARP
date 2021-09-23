@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ProjetTraders\\ProjetTraders.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ModelMetier\\ModelMetier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ModelMetier\\ModelMetier.csproj",
+        "projectName": "ModelMetier",
+        "projectPath": "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ModelMetier\\ModelMetier.csproj",
+        "packagesPath": "C:\\Users\\erwan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ModelMetier\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ProjetTraders\\ProjetTraders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ProjetTraders\\ProjetTraders.csproj",
+        "projectName": "ProjetTraders",
+        "projectPath": "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ProjetTraders\\ProjetTraders.csproj",
+        "packagesPath": "C:\\Users\\erwan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ProjetTraders\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ModelMetier\\ModelMetier.csproj": {
+                "projectPath": "C:\\Users\\erwan\\OneDrive\\Desktop\\ProjetTraders\\ModelMetier\\ModelMetier.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
